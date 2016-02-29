@@ -21,6 +21,15 @@ header {
 h1 {
   margin: 0;
   text-align: center;
+  font-family: "Sigmar One", cursive;
+  color: #cc1465;
+}
+
+h2 {
+  margin: 0;
+  text-align: center;
+  font-family: "Sigmar One", cursive;
+  color: #cc1465;
 }
 
 .nav-list {
